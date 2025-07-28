@@ -6,7 +6,7 @@ This repository demonstrates how to build a comprehensive multimodal AI audio an
 👉 [Spring AI Audio Analysis: A Developer’s Guide to Transcription and Insights](https://bootcamptoprod.com/spring-ai-audio-analysis-guide/)
 
 🎥 **Visual Learning**: Prefer video tutorials? Watch our step-by-step implementation guide on YouTube.<br>
-👉 YouTube Tutorial - Coming Soon!
+👉 YouTube Tutorial - [🎵 Build Audio Analysis API with SpringAI | Transcribe, Analyze & Summarize Audio Files 🚀](https://youtu.be/wBCllKfXeJU)
 
 ---
 
